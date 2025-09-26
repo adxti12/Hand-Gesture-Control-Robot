@@ -1,0 +1,53 @@
+[0.537s] Invoking command in '/home/aditi/turtlebot3_ws/build/turtlebot3_navigation2': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/aditi/ws_moveit/install/moveit_configs_utils:/home/aditi/ws_moveit2/install/moveit_configs_utils:/home/aditi/ws_moveit2/install/launch_param_builder:/opt/ros/humble /usr/bin/cmake /home/aditi/turtlebot3_ws/src/turtlebot3/turtlebot3_navigation2 -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/aditi/turtlebot3_ws/install/turtlebot3_navigation2
+[1.782s] -- The C compiler identification is GNU 11.4.0
+[1.782s] -- The CXX compiler identification is GNU 11.4.0
+[1.782s] -- Detecting C compiler ABI info
+[1.782s] -- Detecting C compiler ABI info - done
+[1.782s] -- Check for working C compiler: /usr/bin/cc - skipped
+[1.782s] -- Detecting C compile features
+[1.783s] -- Detecting C compile features - done
+[1.789s] -- Detecting CXX compiler ABI info
+[1.789s] -- Detecting CXX compiler ABI info - done
+[1.789s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[1.790s] -- Detecting CXX compile features
+[1.796s] -- Detecting CXX compile features - done
+[1.796s] -- Found ament_cmake: 1.3.12 (/opt/ros/humble/share/ament_cmake/cmake)
+[1.823s] -- Found Python3: /usr/bin/python3 (found version "3.10.12") found components: Interpreter 
+[1.969s] -- Override CMake install command with custom implementation using symlinks instead of copying resources
+[2.410s] -- Configuring done
+[2.413s] -- Generating done
+[2.415s] -- Build files have been written to: /home/aditi/turtlebot3_ws/build/turtlebot3_navigation2
+[2.421s] Invoked command in '/home/aditi/turtlebot3_ws/build/turtlebot3_navigation2' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/aditi/ws_moveit/install/moveit_configs_utils:/home/aditi/ws_moveit2/install/moveit_configs_utils:/home/aditi/ws_moveit2/install/launch_param_builder:/opt/ros/humble /usr/bin/cmake /home/aditi/turtlebot3_ws/src/turtlebot3/turtlebot3_navigation2 -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/aditi/turtlebot3_ws/install/turtlebot3_navigation2
+[2.426s] Invoking command in '/home/aditi/turtlebot3_ws/build/turtlebot3_navigation2': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/aditi/ws_moveit/install/moveit_configs_utils:/home/aditi/ws_moveit2/install/moveit_configs_utils:/home/aditi/ws_moveit2/install/launch_param_builder:/opt/ros/humble /usr/bin/cmake --build /home/aditi/turtlebot3_ws/build/turtlebot3_navigation2 -- -j8 -l8
+[2.550s] Invoked command in '/home/aditi/turtlebot3_ws/build/turtlebot3_navigation2' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/aditi/ws_moveit/install/moveit_configs_utils:/home/aditi/ws_moveit2/install/moveit_configs_utils:/home/aditi/ws_moveit2/install/launch_param_builder:/opt/ros/humble /usr/bin/cmake --build /home/aditi/turtlebot3_ws/build/turtlebot3_navigation2 -- -j8 -l8
+[2.552s] Invoking command in '/home/aditi/turtlebot3_ws/build/turtlebot3_navigation2': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/aditi/ws_moveit/install/moveit_configs_utils:/home/aditi/ws_moveit2/install/moveit_configs_utils:/home/aditi/ws_moveit2/install/launch_param_builder:/opt/ros/humble /usr/bin/cmake --install /home/aditi/turtlebot3_ws/build/turtlebot3_navigation2
+[2.776s] -- Install configuration: ""
+[2.777s] -- Execute custom install script
+[2.777s] -- Symlinking: /home/aditi/turtlebot3_ws/install/turtlebot3_navigation2/share/turtlebot3_navigation2/launch/navigation2.launch.py
+[2.777s] -- Symlinking: /home/aditi/turtlebot3_ws/install/turtlebot3_navigation2/share/turtlebot3_navigation2/map/map.pgm
+[2.777s] -- Symlinking: /home/aditi/turtlebot3_ws/install/turtlebot3_navigation2/share/turtlebot3_navigation2/map/map.yaml
+[2.777s] -- Symlinking: /home/aditi/turtlebot3_ws/install/turtlebot3_navigation2/share/turtlebot3_navigation2/param/burger.yaml
+[2.777s] -- Symlinking: /home/aditi/turtlebot3_ws/install/turtlebot3_navigation2/share/turtlebot3_navigation2/param/burger_cam.yaml
+[2.777s] -- Symlinking: /home/aditi/turtlebot3_ws/install/turtlebot3_navigation2/share/turtlebot3_navigation2/param/humble/burger.yaml
+[2.777s] -- Symlinking: /home/aditi/turtlebot3_ws/install/turtlebot3_navigation2/share/turtlebot3_navigation2/param/humble/burger_cam.yaml
+[2.778s] -- Symlinking: /home/aditi/turtlebot3_ws/install/turtlebot3_navigation2/share/turtlebot3_navigation2/param/humble/waffle.yaml
+[2.798s] -- Symlinking: /home/aditi/turtlebot3_ws/install/turtlebot3_navigation2/share/turtlebot3_navigation2/param/humble/waffle_pi.yaml
+[2.827s] -- Symlinking: /home/aditi/turtlebot3_ws/install/turtlebot3_navigation2/share/turtlebot3_navigation2/param/waffle.yaml
+[2.858s] -- Symlinking: /home/aditi/turtlebot3_ws/install/turtlebot3_navigation2/share/turtlebot3_navigation2/param/waffle_pi.yaml
+[2.884s] -- Symlinking: /home/aditi/turtlebot3_ws/install/turtlebot3_navigation2/share/turtlebot3_navigation2/rviz/tb3_navigation2.rviz
+[2.910s] -- Symlinking: /home/aditi/turtlebot3_ws/install/turtlebot3_navigation2/share/ament_index/resource_index/package_run_dependencies/turtlebot3_navigation2
+[2.940s] -- Symlinking: /home/aditi/turtlebot3_ws/install/turtlebot3_navigation2/share/ament_index/resource_index/parent_prefix_path/turtlebot3_navigation2
+[2.968s] -- Symlinking: /home/aditi/turtlebot3_ws/install/turtlebot3_navigation2/share/turtlebot3_navigation2/environment/ament_prefix_path.sh
+[2.999s] -- Symlinking: /home/aditi/turtlebot3_ws/install/turtlebot3_navigation2/share/turtlebot3_navigation2/environment/ament_prefix_path.dsv
+[3.024s] -- Symlinking: /home/aditi/turtlebot3_ws/install/turtlebot3_navigation2/share/turtlebot3_navigation2/environment/path.sh
+[3.052s] -- Symlinking: /home/aditi/turtlebot3_ws/install/turtlebot3_navigation2/share/turtlebot3_navigation2/environment/path.dsv
+[3.080s] -- Symlinking: /home/aditi/turtlebot3_ws/install/turtlebot3_navigation2/share/turtlebot3_navigation2/local_setup.bash
+[3.108s] -- Symlinking: /home/aditi/turtlebot3_ws/install/turtlebot3_navigation2/share/turtlebot3_navigation2/local_setup.sh
+[3.136s] -- Symlinking: /home/aditi/turtlebot3_ws/install/turtlebot3_navigation2/share/turtlebot3_navigation2/local_setup.zsh
+[3.164s] -- Symlinking: /home/aditi/turtlebot3_ws/install/turtlebot3_navigation2/share/turtlebot3_navigation2/local_setup.dsv
+[3.192s] -- Symlinking: /home/aditi/turtlebot3_ws/install/turtlebot3_navigation2/share/turtlebot3_navigation2/package.dsv
+[3.220s] -- Symlinking: /home/aditi/turtlebot3_ws/install/turtlebot3_navigation2/share/ament_index/resource_index/packages/turtlebot3_navigation2
+[3.249s] -- Symlinking: /home/aditi/turtlebot3_ws/install/turtlebot3_navigation2/share/turtlebot3_navigation2/cmake/turtlebot3_navigation2Config.cmake
+[3.276s] -- Symlinking: /home/aditi/turtlebot3_ws/install/turtlebot3_navigation2/share/turtlebot3_navigation2/cmake/turtlebot3_navigation2Config-version.cmake
+[3.303s] -- Symlinking: /home/aditi/turtlebot3_ws/install/turtlebot3_navigation2/share/turtlebot3_navigation2/package.xml
+[3.661s] Invoked command in '/home/aditi/turtlebot3_ws/build/turtlebot3_navigation2' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/aditi/ws_moveit/install/moveit_configs_utils:/home/aditi/ws_moveit2/install/moveit_configs_utils:/home/aditi/ws_moveit2/install/launch_param_builder:/opt/ros/humble /usr/bin/cmake --install /home/aditi/turtlebot3_ws/build/turtlebot3_navigation2

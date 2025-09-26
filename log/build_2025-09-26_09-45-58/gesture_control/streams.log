@@ -1,0 +1,24 @@
+[1.233s] Invoking command in '/home/aditi/turtlebot3_ws/src/gesture_control': PYTHONPATH=/home/aditi/turtlebot3_ws/build/gesture_control/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/aditi/turtlebot3_ws/install/gesture_control/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/gesture_control build --build-base /home/aditi/turtlebot3_ws/build/gesture_control/build install --record /home/aditi/turtlebot3_ws/build/gesture_control/install.log --single-version-externally-managed install_data
+[1.716s] running egg_info
+[1.716s] writing ../../build/gesture_control/gesture_control.egg-info/PKG-INFO
+[1.717s] writing dependency_links to ../../build/gesture_control/gesture_control.egg-info/dependency_links.txt
+[1.717s] writing entry points to ../../build/gesture_control/gesture_control.egg-info/entry_points.txt
+[1.717s] writing requirements to ../../build/gesture_control/gesture_control.egg-info/requires.txt
+[1.717s] writing top-level names to ../../build/gesture_control/gesture_control.egg-info/top_level.txt
+[1.720s] reading manifest file '../../build/gesture_control/gesture_control.egg-info/SOURCES.txt'
+[1.721s] writing manifest file '../../build/gesture_control/gesture_control.egg-info/SOURCES.txt'
+[1.721s] running build
+[1.721s] running build_py
+[1.722s] copying gesture_control/gesture_cmdvel.py -> /home/aditi/turtlebot3_ws/build/gesture_control/build/lib/gesture_control
+[1.722s] running install
+[1.722s] running install_lib
+[1.723s] copying /home/aditi/turtlebot3_ws/build/gesture_control/build/lib/gesture_control/gesture_cmdvel.py -> /home/aditi/turtlebot3_ws/install/gesture_control/lib/python3.10/site-packages/gesture_control
+[1.724s] byte-compiling /home/aditi/turtlebot3_ws/install/gesture_control/lib/python3.10/site-packages/gesture_control/gesture_cmdvel.py to gesture_cmdvel.cpython-310.pyc
+[1.725s] running install_data
+[1.726s] running install_egg_info
+[1.729s] removing '/home/aditi/turtlebot3_ws/install/gesture_control/lib/python3.10/site-packages/gesture_control-0.0.0-py3.10.egg-info' (and everything under it)
+[1.729s] Copying ../../build/gesture_control/gesture_control.egg-info to /home/aditi/turtlebot3_ws/install/gesture_control/lib/python3.10/site-packages/gesture_control-0.0.0-py3.10.egg-info
+[1.732s] running install_scripts
+[1.761s] Installing gesture_cmdvel script to /home/aditi/turtlebot3_ws/install/gesture_control/lib/gesture_control
+[1.762s] writing list of installed files to '/home/aditi/turtlebot3_ws/build/gesture_control/install.log'
+[1.792s] Invoked command in '/home/aditi/turtlebot3_ws/src/gesture_control' returned '0': PYTHONPATH=/home/aditi/turtlebot3_ws/build/gesture_control/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/aditi/turtlebot3_ws/install/gesture_control/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/gesture_control build --build-base /home/aditi/turtlebot3_ws/build/gesture_control/build install --record /home/aditi/turtlebot3_ws/build/gesture_control/install.log --single-version-externally-managed install_data

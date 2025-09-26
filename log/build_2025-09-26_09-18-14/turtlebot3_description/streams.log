@@ -1,0 +1,57 @@
+[0.094s] Invoking command in '/home/aditi/turtlebot3_ws/build/turtlebot3_description': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/aditi/ws_moveit/install/moveit_configs_utils:/home/aditi/ws_moveit2/install/moveit_configs_utils:/home/aditi/ws_moveit2/install/launch_param_builder:/opt/ros/humble /usr/bin/cmake /home/aditi/turtlebot3_ws/src/turtlebot3/turtlebot3_description -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/aditi/turtlebot3_ws/install/turtlebot3_description
+[0.600s] -- The C compiler identification is GNU 11.4.0
+[0.601s] -- The CXX compiler identification is GNU 11.4.0
+[0.602s] -- Detecting C compiler ABI info
+[0.602s] -- Detecting C compiler ABI info - done
+[0.602s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.603s] -- Detecting C compile features
+[0.603s] -- Detecting C compile features - done
+[0.603s] -- Detecting CXX compiler ABI info
+[0.657s] -- Detecting CXX compiler ABI info - done
+[0.680s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[0.681s] -- Detecting CXX compile features
+[0.683s] -- Detecting CXX compile features - done
+[0.721s] -- Found ament_cmake: 1.3.12 (/opt/ros/humble/share/ament_cmake/cmake)
+[1.167s] -- Found Python3: /usr/bin/python3 (found version "3.10.12") found components: Interpreter 
+[1.327s] -- Override CMake install command with custom implementation using symlinks instead of copying resources
+[1.697s] -- Found urdf: 2.6.1 (/opt/ros/humble/share/urdf/cmake)
+[2.254s] -- Configuring done
+[2.260s] -- Generating done
+[2.263s] -- Build files have been written to: /home/aditi/turtlebot3_ws/build/turtlebot3_description
+[2.277s] Invoked command in '/home/aditi/turtlebot3_ws/build/turtlebot3_description' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/aditi/ws_moveit/install/moveit_configs_utils:/home/aditi/ws_moveit2/install/moveit_configs_utils:/home/aditi/ws_moveit2/install/launch_param_builder:/opt/ros/humble /usr/bin/cmake /home/aditi/turtlebot3_ws/src/turtlebot3/turtlebot3_description -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/aditi/turtlebot3_ws/install/turtlebot3_description
+[2.279s] Invoking command in '/home/aditi/turtlebot3_ws/build/turtlebot3_description': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/aditi/ws_moveit/install/moveit_configs_utils:/home/aditi/ws_moveit2/install/moveit_configs_utils:/home/aditi/ws_moveit2/install/launch_param_builder:/opt/ros/humble /usr/bin/cmake --build /home/aditi/turtlebot3_ws/build/turtlebot3_description -- -j8 -l8
+[2.509s] Invoked command in '/home/aditi/turtlebot3_ws/build/turtlebot3_description' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/aditi/ws_moveit/install/moveit_configs_utils:/home/aditi/ws_moveit2/install/moveit_configs_utils:/home/aditi/ws_moveit2/install/launch_param_builder:/opt/ros/humble /usr/bin/cmake --build /home/aditi/turtlebot3_ws/build/turtlebot3_description -- -j8 -l8
+[2.510s] Invoking command in '/home/aditi/turtlebot3_ws/build/turtlebot3_description': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/aditi/ws_moveit/install/moveit_configs_utils:/home/aditi/ws_moveit2/install/moveit_configs_utils:/home/aditi/ws_moveit2/install/launch_param_builder:/opt/ros/humble /usr/bin/cmake --install /home/aditi/turtlebot3_ws/build/turtlebot3_description
+[2.629s] -- Install configuration: ""
+[2.629s] -- Execute custom install script
+[2.630s] -- Symlinking: /home/aditi/turtlebot3_ws/install/turtlebot3_description/share/turtlebot3_description/meshes/bases/burger_base.stl
+[2.630s] -- Symlinking: /home/aditi/turtlebot3_ws/install/turtlebot3_description/share/turtlebot3_description/meshes/bases/waffle_base.stl
+[2.630s] -- Symlinking: /home/aditi/turtlebot3_ws/install/turtlebot3_description/share/turtlebot3_description/meshes/bases/waffle_pi_base.stl
+[2.630s] -- Symlinking: /home/aditi/turtlebot3_ws/install/turtlebot3_description/share/turtlebot3_description/meshes/sensors/astra.dae
+[2.656s] -- Symlinking: /home/aditi/turtlebot3_ws/install/turtlebot3_description/share/turtlebot3_description/meshes/sensors/astra.jpg
+[2.679s] -- Symlinking: /home/aditi/turtlebot3_ws/install/turtlebot3_description/share/turtlebot3_description/meshes/sensors/lds.stl
+[2.707s] -- Symlinking: /home/aditi/turtlebot3_ws/install/turtlebot3_description/share/turtlebot3_description/meshes/sensors/r200.dae
+[2.733s] -- Symlinking: /home/aditi/turtlebot3_ws/install/turtlebot3_description/share/turtlebot3_description/meshes/sensors/r200.jpg
+[2.755s] -- Symlinking: /home/aditi/turtlebot3_ws/install/turtlebot3_description/share/turtlebot3_description/meshes/wheels/left_tire.stl
+[2.782s] -- Symlinking: /home/aditi/turtlebot3_ws/install/turtlebot3_description/share/turtlebot3_description/meshes/wheels/right_tire.stl
+[2.808s] -- Symlinking: /home/aditi/turtlebot3_ws/install/turtlebot3_description/share/turtlebot3_description/rviz/model.rviz
+[2.834s] -- Symlinking: /home/aditi/turtlebot3_ws/install/turtlebot3_description/share/turtlebot3_description/urdf/common_properties.urdf
+[2.856s] -- Symlinking: /home/aditi/turtlebot3_ws/install/turtlebot3_description/share/turtlebot3_description/urdf/turtlebot3_burger.urdf
+[2.877s] -- Symlinking: /home/aditi/turtlebot3_ws/install/turtlebot3_description/share/turtlebot3_description/urdf/turtlebot3_waffle.urdf
+[2.902s] -- Symlinking: /home/aditi/turtlebot3_ws/install/turtlebot3_description/share/turtlebot3_description/urdf/turtlebot3_waffle_pi.urdf
+[2.938s] -- Symlinking: /home/aditi/turtlebot3_ws/install/turtlebot3_description/share/ament_index/resource_index/package_run_dependencies/turtlebot3_description
+[2.960s] -- Symlinking: /home/aditi/turtlebot3_ws/install/turtlebot3_description/share/ament_index/resource_index/parent_prefix_path/turtlebot3_description
+[2.990s] -- Symlinking: /home/aditi/turtlebot3_ws/install/turtlebot3_description/share/turtlebot3_description/environment/ament_prefix_path.sh
+[3.014s] -- Symlinking: /home/aditi/turtlebot3_ws/install/turtlebot3_description/share/turtlebot3_description/environment/ament_prefix_path.dsv
+[3.042s] -- Symlinking: /home/aditi/turtlebot3_ws/install/turtlebot3_description/share/turtlebot3_description/environment/path.sh
+[3.069s] -- Symlinking: /home/aditi/turtlebot3_ws/install/turtlebot3_description/share/turtlebot3_description/environment/path.dsv
+[3.097s] -- Symlinking: /home/aditi/turtlebot3_ws/install/turtlebot3_description/share/turtlebot3_description/local_setup.bash
+[3.130s] -- Symlinking: /home/aditi/turtlebot3_ws/install/turtlebot3_description/share/turtlebot3_description/local_setup.sh
+[3.159s] -- Symlinking: /home/aditi/turtlebot3_ws/install/turtlebot3_description/share/turtlebot3_description/local_setup.zsh
+[3.188s] -- Symlinking: /home/aditi/turtlebot3_ws/install/turtlebot3_description/share/turtlebot3_description/local_setup.dsv
+[3.217s] -- Symlinking: /home/aditi/turtlebot3_ws/install/turtlebot3_description/share/turtlebot3_description/package.dsv
+[3.245s] -- Symlinking: /home/aditi/turtlebot3_ws/install/turtlebot3_description/share/ament_index/resource_index/packages/turtlebot3_description
+[3.272s] -- Symlinking: /home/aditi/turtlebot3_ws/install/turtlebot3_description/share/turtlebot3_description/cmake/turtlebot3_descriptionConfig.cmake
+[3.301s] -- Symlinking: /home/aditi/turtlebot3_ws/install/turtlebot3_description/share/turtlebot3_description/cmake/turtlebot3_descriptionConfig-version.cmake
+[3.327s] -- Symlinking: /home/aditi/turtlebot3_ws/install/turtlebot3_description/share/turtlebot3_description/package.xml
+[3.715s] Invoked command in '/home/aditi/turtlebot3_ws/build/turtlebot3_description' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/aditi/ws_moveit/install/moveit_configs_utils:/home/aditi/ws_moveit2/install/moveit_configs_utils:/home/aditi/ws_moveit2/install/launch_param_builder:/opt/ros/humble /usr/bin/cmake --install /home/aditi/turtlebot3_ws/build/turtlebot3_description
